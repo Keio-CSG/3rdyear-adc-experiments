@@ -1,0 +1,1 @@
+git+https://github.com/Digilent/WaveForms-SDK-Getting-Started-PY.git
